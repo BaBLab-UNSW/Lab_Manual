@@ -1,6 +1,8 @@
 bookdown::gitbook:
   number_sections: false
   split_by: chapter
+  includes:
+    in_header: header.html
   config:
     toc:
       collapse: section
