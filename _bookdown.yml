@@ -1,0 +1,13 @@
+book_filename: "lab-manual"
+output_dir: "docs"
+rmd_files: [
+  "index.Rmd",
+  "01-welcome-mission-diversity.md",
+  "02-expectations-and-responsibilities.md",
+  "03-code-of-conduct.md",
+  "04-use-of-ai.md",
+  "05-data-access-and-management.md",
+  "06-data-analysis-and-code-practices.md",
+  "07-training-resources.md",
+  "08-essential-reading-list.md"
+]

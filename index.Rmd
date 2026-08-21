@@ -1,0 +1,16 @@
+---
+title: "Brain & Body Lab Manual"
+author: "Callaghan Brain & Body Lab, UNSW Sydney"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook:
+    config:
+      toc:
+        collapse: section
+---
+
+# Preface {-}
+
+Welcome to the lab manual for the Brain & Body Lab at UNSW Sydney. Use the menu on the left to move between sections.
