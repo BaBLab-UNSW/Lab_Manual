@@ -1,0 +1,31 @@
+# Section 10: Honours Students
+
+## 10.1 Thinking About Honours in the BABLab
+
+Honours in the BABLab is your own project within a broader research program. By the end of the year, you will be able to explain and defend why your question matters, how your methods answer it, and what your findings mean (and what they don't).
+
+I do not hold individual meetings with prospective Honours students, because placements are allocated through the School's process. This section gives you what you need to decide whether the lab is a good fit, and the [Honours Guide](https://bablab-unsw.github.io/Honours_Guide/) gives the full detail of what working with me involves.
+
+<!-- TODO: add link to the 2027 Honours projects document here -->
+
+## 10.2 What to Expect from Me
+
+- **Weekly 1:1 meeting.** Each student has one 30-minute in-person meeting with me per week.
+- **Lab meetings** every 2 weeks, which you attend in person.
+- **Study coordination meetings** once per month for projects with active data collection.
+- **Direct feedback.** My role is supportive and evaluative. I will help you build your ideas, skills, and confidence, and I will be direct about standards for writing, thinking, analysis, and professionalism.
+- **Communication** by Teams chat or email. I aim to respond within a few working days.
+
+## 10.3 What I Expect from You
+
+- **Ownership.** This is your project. Come to meetings with a proposed plan, not only a question.
+- **Preparation.** Before every meeting, add written notes (progress, agenda, questions) to a shared file for discussion, and record action items there.
+- **Deadlines.** Stick to the deadlines set in the lab for Honours projects. I will not read documents submitted after the final feedback deadline, which falls 3 weeks before your project is due. Allow at least one week for feedback on short sections and at least two weeks for major drafts.
+- **Ethics.** Follow the strictest ethical guidelines when working with and collecting human subjects data (see [Section 3.3](section-3-code-of-conduct.html#human-subjects-research)).
+- **Integrity and AI.** Your writing and analysis must be your own, and any substantive use of AI must be disclosed (see [Section 4](section-4-use-of-ai-in-the-lab.html)).
+- **Organisation.** Keep a lab notebook or structured research log, never alter raw data, and follow the lab's code and data practices (see [Sections 5 and 6](section-5-data-access-and-management.html)).
+- **In-person presence.** Honours students attend meetings in person, and projects with data collection involve scheduled in-person sessions.
+
+## 10.4 The Full Honours Guide
+
+The [Honours Guide](https://bablab-unsw.github.io/Honours_Guide/) is given to every Honours student when they start. It covers meetings, communication, drafts and feedback turnaround, problem-solving, lab culture, record keeping, research integrity, and the use of AI tools and citation software in detail.

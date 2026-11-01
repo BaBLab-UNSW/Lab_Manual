@@ -1,4 +1,4 @@
-# Theoretical Orientation
+# Section 9: Theoretical Orientation
 
 ## Where we stand, and why it matters for how you work here
 
